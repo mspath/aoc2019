@@ -9,3 +9,4 @@ Just found out about the [Advent of Code 2019] a year late, still might be fun t
 
 ### Day 1 The Tyranny of the Rocket Equation
 
+calculate the fuel requirements of a spacecraft

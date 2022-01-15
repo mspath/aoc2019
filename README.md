@@ -14,3 +14,7 @@ calculate the fuel requirements of a spacecraft
 ### Day 2 Program Alarm
 
 write an intcode computer.
+
+### Day 3 Crossed Wires
+
+find intersecting wires.

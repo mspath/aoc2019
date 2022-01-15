@@ -18,3 +18,9 @@ write an intcode computer.
 ### Day 3 Crossed Wires
 
 find intersecting wires.
+
+### Day 4 Secure Container
+
+find patterns in digits.
+
+

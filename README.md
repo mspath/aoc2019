@@ -23,4 +23,8 @@ find intersecting wires.
 
 find patterns in digits.
 
+### Day 6 Universal Orbit Map
+
+find the distance in the orbit. (probably should be implemented with a tree, but a recursive function worked)
+
 

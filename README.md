@@ -27,4 +27,6 @@ find patterns in digits.
 
 find the distance in the orbit. (probably should be implemented with a tree, but a recursive function worked)
 
+### Day 8 Space Image Format
 
+verify and decode an image format.

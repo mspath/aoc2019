@@ -30,3 +30,7 @@ find the distance in the orbit. (probably should be implemented with a tree, but
 ### Day 8 Space Image Format
 
 verify and decode an image format.
+
+### Day 10 Monitoring Station
+
+find the asteroid with the best view. pt. 1 only.

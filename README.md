@@ -34,3 +34,7 @@ verify and decode an image format.
 ### Day 10 Monitoring Station
 
 find the asteroid with the best view. pt. 1 only.
+
+### Day 12 The N-Body Problem
+
+track the position of moons. pt. 1 only.

@@ -1,5 +1,4 @@
-Advent of Code 2019
-===================
+# Advent of Code 2019
 
 Just found out about the [Advent of Code 2019] a year late, still might be fun to give a shot timeshifted.
 
@@ -38,3 +37,14 @@ find the asteroid with the best view. pt. 1 only.
 ### Day 12 The N-Body Problem
 
 track the position of moons. pt. 1 only.
+
+---
+
+Environment
+
+- Kotlin 1.6.10
+- Intellij 2021.3.2
+
+---
+
+updated: 2022-03-08

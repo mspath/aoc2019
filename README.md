@@ -42,8 +42,8 @@ track the position of moons. pt. 1 only.
 
 Environment
 
-- Kotlin 1.6.10
-- Intellij 2021.3.2
+- Kotlin 1.7.10
+- Intellij 2021.3.3
 
 ---
 

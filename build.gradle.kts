@@ -1,11 +1,11 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    kotlin("jvm") version "1.7.10"
+    kotlin("jvm") version "1.7.21"
     application
 }
 
-group = "me.mspath"
+group = "de.hackr"
 version = "1.0-SNAPSHOT"
 
 repositories {
